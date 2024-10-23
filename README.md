@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bilal4700 / Muhammad Bilal currently a 3rd year Software Engineering Student in Ucalgary
+- 👋 Hi, I’m @Bilal4700 / Muhammad Bilal currently a 3rd year Software Engineering Student in University of Calgary
 
 
 <!---
