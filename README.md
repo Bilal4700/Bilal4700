@@ -5,21 +5,18 @@
 
 ## PROJECTS
 
-**Rate My Dino**  
+[Rate My Dino](https://github.com/damonmaz/RateMyDino.git)
 AI-powered professor review platform using OpenAI API and layered architecture  
-[GitHub](https://github.com/damonmaz/RateMyDino.git)
 
-**Weather Prediction ML Project**
+[Weather Prediction ML Project](https://github.com/Bilal4700/Rainfall-in-Australia-ML-model.git)
 end-to-end ML pipeline to predict rainfall using Australian weather data.  
-[GitHub](https://github.com/Bilal4700/Rainfall-in-Australia-ML-model.git)
 
-**Movie Theater Booking System**
+[Movie Theater Booking System](https://github.com/Bilal4700/Movie-theater-ticket-reservation-application-.git)
 Full-stack ticket booking system with responsive UI and secure payment handling  
-[GitHub](https://github.com/Bilal4700/Movie-theater-ticket-reservation-application-.git)
 
-**Subway Screen Software**
+[Subway Screen Software](https://github.com/Bilal4700/SubwayScreen.git)
 GUI for Calgary’s subway system displaying live maps, ads, and real-time news/weather  
-[GitHub](https://github.com/Bilal4700/SubwayScreen.git)
+
 
 ## Currently Learning
 - Blockchain & Smart Contracts  
@@ -28,7 +25,7 @@ GUI for Calgary’s subway system displaying live maps, ads, and real-time news/
 
 ## 📫 Let’s Connect!
 Email: muhammad.bilal2@ucalgary.ca  
-LinkedIn: [muhammad-bilal-955a12295](http://www.linkedin.com/in/muhammad-bilal-955a12295)  
+LinkedIn: [Muhammad Bilal](http://www.linkedin.com/in/muhammad-bilal-955a12295)  
 
 <!---
 Bilal4700/Bilal4700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
