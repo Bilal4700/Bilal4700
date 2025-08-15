@@ -17,6 +17,8 @@ Full-stack ticket booking system with responsive UI and secure payment handling
 [Subway Screen Software](https://github.com/Bilal4700/SubwayScreen.git)
 GUI for Calgary’s subway system displaying live maps, ads, and real-time news/weather  
 
+[StableCoin](https://github.com/Bilal4700/StableCoin.git)
+A Stable Coin model
 
 ## Currently Learning
 - Blockchain & Smart Contracts  
