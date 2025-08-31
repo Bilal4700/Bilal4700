@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @Bilal4700 / Muhammad Bilal
 
 - 🎓 Software Engineering student @ University of Calgary   
-⚡ Currently exploring AI, blockchain, and full-stack development
+⚡ Backend - Lead @ Enactus, workking towards United Nation Sustainable Development goals
 
 ## PROJECTS
+
+[StableCoin](https://github.com/Bilal4700/StableCoin.git)
+A Stable Coin model
 
 [Rate My Dino](https://github.com/damonmaz/RateMyDino.git)
 AI-powered professor review platform using OpenAI API and layered architecture  
@@ -17,8 +20,6 @@ Full-stack ticket booking system with responsive UI and secure payment handling
 [Subway Screen Software](https://github.com/Bilal4700/SubwayScreen.git)
 GUI for Calgary’s subway system displaying live maps, ads, and real-time news/weather  
 
-[StableCoin](https://github.com/Bilal4700/StableCoin.git)
-A Stable Coin model
 
 ## Currently Learning
 - Blockchain & Smart Contracts  
