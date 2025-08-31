@@ -6,7 +6,7 @@
 ## PROJECTS
 
 [StableCoin](https://github.com/Bilal4700/StableCoin.git)
-A Stable Coin model
+A fully decentralised model of a stabel ERC-20 token, pegged to the price of USD, allow users to deposit weth and wbtc as a collatoral, mint , liquadate and burn.
 
 [Rate My Dino](https://github.com/damonmaz/RateMyDino.git)
 AI-powered professor review platform using OpenAI API and layered architecture  
