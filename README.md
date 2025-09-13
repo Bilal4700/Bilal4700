@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bilal4700 / Muhammad Bilal
 
 - 🎓 Software Engineering student @ University of Calgary   
-⚡ Backend - Lead @ Enactus, workking towards United Nation Sustainable Development goals
+⚡ Backend - Lead @ Enactus, working towards United Nation Sustainable Development goals
 
 ## PROJECTS
 
