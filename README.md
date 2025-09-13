@@ -21,11 +21,6 @@ Full-stack ticket booking system with responsive UI and secure payment handling
 GUI for Calgary’s subway system displaying live maps, ads, and real-time news/weather  
 
 
-## Currently Learning
-- Blockchain & Smart Contracts  
-- Advanced data science & ML  
-- DevOps tools & CI/CD pipelines
-
 ## 📫 Let’s Connect!
 Email: muhammad.bilal2@ucalgary.ca  
 LinkedIn: [Muhammad Bilal](http://www.linkedin.com/in/muhammad-bilal-955a12295)  
